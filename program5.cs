@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace GenericApp
+namespace LAB5
 {
     public class TestClass<T>
     {
