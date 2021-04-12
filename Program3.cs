@@ -2,7 +2,7 @@
 using System;
 namespace delegate_custom
 {
-    class Program
+    class LAB3
     {
         public delegate void MyDelegate(int a);
 
