@@ -2,7 +2,7 @@
 using System;
 using System.Reflection;
 
-namespace LAB7
+namespace class1
 {
     class class1
     {
